@@ -2,6 +2,9 @@ img {
 
 width: 300px;
 margin: 30px;
+border: 5px solid black;
+border-radius: 20px;
+transition: 1s;
 
 
 }
@@ -10,6 +13,7 @@ img:hover {
 
 width: 400px;
 margin: 0px;
+transform: scale(1.3);
 
 
 }
